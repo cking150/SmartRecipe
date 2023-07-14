@@ -1,6 +1,6 @@
-- [] Join KSU-IS github 
-- [] Find other files to use as a guide for our own
-- [] Find a program that resembles the idea/or attempt to make one from scratch
+- [x] Join KSU-IS github 
+- [x] Find other files to use as a guide for our own
+- [x] Find a program that resembles the idea/or attempt to make one from scratch
 - [] Establish ReadMe, Licence and Roadmap
 - [] evaluate code and correct errors
 - [] figure out why pip isn't working in VS Code

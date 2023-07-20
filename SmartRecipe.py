@@ -2,6 +2,10 @@ import random
 import requests
 from bs4 import BeautifulSoup
 
+while True:
+    # input name of recipe 
+    recipe_name = input("Enter a recipe name: ")
+
 def get_recipe_from_website(url):
     response = requests.get(url)
     if response.status_code == 200:

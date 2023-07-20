@@ -15,13 +15,13 @@ def get_recipe_from_website(url):
         print("Failed to fetch the recipe from the website.")
         return [], []
 
-# ... (rest of the code remains the same)
+
 
 def main():
     recipe_url = "https://www.allrecipes.com/recipe/222093/healthier-slow-cooker-beef-stew-i/"
     all_ingredients, all_instructions = get_recipe_from_website(recipe_url)
 
-    # ... (rest of the code remains the same)
+
 
 if __name__ == "__main__":
     main()
